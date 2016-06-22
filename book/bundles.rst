@@ -16,8 +16,8 @@
 
 .. note::
 
-   While you'll learn the basics here, an entire cookbook entry is devoted
-   to the organization and best practices of :doc:`bundles </cookbook/bundles/best_practices>`.
+   ここでは基礎を学べますが、構成やベストプラクティスは
+   クックブックの記事:doc:`bundles </cookbook/bundles/best_practices>`を御覧ください。
 
 バンドルは単にディレクトリの中で構造化された一つの機能を実装するファイルのセットです。\
 
